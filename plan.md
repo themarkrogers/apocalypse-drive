@@ -31,6 +31,19 @@ Stretch goals
 * Knowledge
   * Wikipedia
   * Books
+  * How to build a 3d printer
+    * Chemical procedures for creating PLA, PET, etc?
+* How-To Manuals for recreating computer hardware
+  * RISC-V CPU
+  * HDD?
+  * RAM?
+  * PCIe?
+  * Motherboard?
+  * PSU?
+  * Computer Case?
+  * Network Switch (managed & unmanaged)
+  * Cat5e cables?
+  * SATA cables?
 
 
 
