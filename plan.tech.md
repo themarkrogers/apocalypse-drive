@@ -8,7 +8,7 @@ Desktops & Laptops
 * Linux OSes to backup
   * Tails, Arch, Kali, Raspberry Pi Os, CentOS
 
-Networking
+Networking (Old-school)
 * Hardware
   * 2+ Laptops/Devices
   * Router/Firewall (e.g. protectli vault)
@@ -19,6 +19,23 @@ Networking
   * Cumulus Linux? (for managed switches)
   * OpenWRT (for WAPs)
 * Software
+
+Networking (Meshtastic)
+* Hardware
+  * 2+ Laptops/Devices (with Wi-Fi)
+  * 1+ Assembled Kits:
+    * $05 - RaspberryPi Pico
+    * $15 - SX1262 LoRa Node Module for Raspberry Pi Pico
+    * Antenna
+    * Battery Pack
+    * BMS?
+    * Solar Panel
+    * Waterproof housing
+* Firmware
+  * Meshtastic
+* Software
+  * Wi-Fi drivers?
+  * Meshtastic repos?
 
 Stretch goals
 * Local backup of repos
