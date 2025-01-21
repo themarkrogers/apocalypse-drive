@@ -1,6 +1,10 @@
+# Introduction
+
+This document serves as a list of all the "general knowledge" that would be valuable in case of an apocalypse.
+
 # 1. Foundational Survival & Self-Sufficiency
 
-1.1 Food & Water
+1.1 Food & Agriculture
 * Seed-saving guides & heirloom seeds: 
   * Instructions for seed collection, storage, and planting.
   * Descriptions and photos of various crop seeds (grains, legumes, vegetables, herbs).
@@ -10,33 +14,40 @@
 * Basic agriculture & permaculture manuals: 
   * Crop rotation, companion planting, soil improvement, composting, pest management.
   * Guides to planting calendars, pest/disease control using organic/low-tech methods.
-  * Greenhouse or hoop-house designs for extended growing seasons.
+  * Drip irrigation systems, Simple flood irrigation setups
+  * Greenhouse or hoop-house designs for extended growing seasons. Solar-heated greenhouses for cold climates.
 * Livestock care: 
   * Guidance on raising chickens, goats, rabbits, etc. 
+  * Chicken coops, barns, and pens
   * Housing designs, feed composition, basic veterinary care, and breeding.
   * Bee-keeping for honey and pollination.
-* Food preservation: 
+* Food processing & preservation: 
   * Canning, drying, curing, smoking, pickling, and building low-tech refrigeration (e.g., root cellars).
   * Instructions for smoking, drying/dehydrating, pickling, fermenting, and canning.
   * Building low-tech refrigeration/cold storage like root cellars or zeer pots (evaporative coolers).
+  * Grain mills (manual and wind-powered), Solar dehydrators for food preservation
 
 1.2 Water Procurement & Purification
 * Finding and Harvesting Water
   * Well-digging methods, river/stream diversion, collecting rainwater, constructing cisterns.
 * Purification Techniques
   * Boiling, distillation (solar stills), slow sand filters, ceramic filters, chlorination, UV purification methods.
+  * Slow sand filters, Solar stills for desalinating water
 * Water Infrastructure
-  * Hand pumps, gravity-fed systems, simple aqueduct designs.
+  * Gravity-fed aqueducts, Hand-pump wells and cisterns, Rainwater harvesting systems, aqueducts
 * Water sourcing & purification: 
   * Well construction, rainwater harvesting, slow sand filters, solar stills, and basic water testing.
 
 1.3 Shelter & Construction
 * Shelter design and materials: 
   * Adobe, cob, straw bale, log cabins, yurts, earthbag, and other region-appropriate structures.
+  * Designs for huts, cabins, adobe structures, earthships, root cellars, etc.
+  * Basic beam and arch bridge designs that can be constructed with wood, stone, or rope.
 * Tools & Their Maintenance & Tool-making: 
   * Plans for simple hand tools like hammers, saws, chisels, and blacksmithing techniques to create or repair them.
 * Brick-making & pottery: 
   * Instructions for firing clay, building simple kilns, and making durable ceramics.
+  * Kiln designs for firing clay into bricks or ceramics
 * Basic Construction Methods
   * Woodworking and carpentry: how to square logs, make lumber from raw timber.
   * Masonry: stone, brick, adobe, cob, rammed earth techniques.
@@ -51,11 +62,15 @@
   * Wound care, splinting, treatment of burns, CPR, control of bleeding.
 * Low-tech clinic setups: 
   * How to create sterile fields (boiling, solar sterilizers, or steam autoclaves), store medicines, and maintain hygiene.
+  * Low-tech clinic and field hospital layouts, 
+  * Designs for sterilization equipment (e.g., autoclaves using fire or solar)
+  * Crutches, wheelchairs, and splint designs, Scalpels, clamps, and syringe designs that can be manufactured simply
 * Herbal & traditional remedies: 
   * How to identify medicinal plants, prepare tinctures, poultices, essential oils & dosages.
   * Guide to common diseases and treatments, antibiotic properties of certain plants (garlic, honey, etc.).
 * Public sanitation: 
   * Building latrines or composting toilets, basic sewage treatment, safe waste disposal, and prevention of waterborne diseases.
+  * Septic systems, Simple sewage treatment systems (e.g., reed bed filtration)
   * Methods to sterilize instruments (boiling, chemical disinfection, pressure cookers/autoclaves over fire).
 * Longer-Term Healthcare
   * Midwifery and basic obstetrics.
@@ -69,14 +84,17 @@
   * Windmill designs for mechanical power (milling grain, pumping water).
   * Micro-hydroelectric systems for areas with running water.
   * Solar ovens, dryers, small-scale solar panels (if salvageable), solar thermal water heating.
+  * Solar panels (with simple assembly)
 * Manual power: 
   * Pedal-powered devices (grain mills, small generators).
-  * Treadle sewing machines, hand-crank devices.
+  * Crank-based energy systems
+  * Treadle sewing machines
 * Biomass & Fuels
   * Wood gasifiers, biodigesters to create biogas, charcoal kilns, basic alcohol fuels.
   * Safe storage and handling of these fuels.
 * Energy Storage
-  * Simple battery technologies (lead-acid, homemade saltwater batteries), methods to store mechanical energy (flywheels, water reservoirs).
+  * Simple battery technologies (lead-acid, homemade saltwater batteries, aluminum-air batteries)
+  * Methods to store mechanical energy (flywheels, water reservoirs).
 
 2.2 Metalworking & Manufacturing
 
@@ -85,9 +103,12 @@ Metalworking & Blacksmithing
   * Smelting iron, steel-making, creating simple alloys (steel, bronze, brass).
 * Blacksmithing
   * Basic techniques (forging nails, hinges, blades, farming tools).
+  * Hand tool blueprints (hammers, chisels, saws)
+  * 
 * Furnace & forge designs: 
-  * Forge construction (charcoal or coke fuel), bellows designs, anvil alternatives.
+  * Forge construction (charcoal or coke fuel), bellows designs, anvils & anvil alternatives.
   * Bloomery furnaces, blast furnaces, bellows, crucibles.
+  * Blast furnace for smelting iron and steel, Basic forge bellows and molds
 * Pottery & Ceramics
   * Kiln designs (pit kilns, wood-fired kilns), clay sourcing, glaze formulas.
   * Making useful vessels (pots, plates, water filters).
@@ -95,8 +116,11 @@ Metalworking & Blacksmithing
   * Instructions for collecting materials (sand, soda, lime), building a glass furnace, shaping glass into containers or lenses.
   * Recipes for glass, instructions on making crucibles and simple molds.
   * Grinding lenses for magnification, telescopes, or microscopes.
+  * Kiln and mold designs for creating glass containers and lenses.
+  * How to create rudimentary laboratory & scientific glassware
 * Paper production: 
   * Creating pulp from wood or other fibers; simple press for sheets.
+  * Instructions for making paper from wood pulp or recycled materials
 * Textiles & Leather
   * Loom designs, spinning wheels, natural dyes.
   * Tanning hides for leather, sewing methods for clothing and footwear.
@@ -104,10 +128,12 @@ Metalworking & Blacksmithing
 2.3 Tools & Machinery
 * Mechanical advantage: 
   * Pulleys, levers, gears, water wheels.
+  * Pulley systems for lifting heavy loads, Water wheels for grinding grain or generating power
 * Blueprints for simple machinery: 
   * Grain mills, textile looms, foot-powered lathes, spinning wheels.
+* Guides on tool use and maintenance
 * Vehicle basics: 
-  * Carts, wheelbarrows, bicycles (and how to repair them).
+  * Carts, handcarts, wheelbarrows, bicycles, wagons (and how to repair them).
 
 # 3. Communication, Education & Culture
 
@@ -115,6 +141,7 @@ Metalworking & Blacksmithing
 * Printing press: 
   * Plans for a low-tech printing press and movable type.
   * Plans for small manual printing presses (Gutenberg-style).
+  * Simple designs for replicating text images.
   * Paper-making recipes (from wood pulp or recycled scraps), binding techniques.
 * Radio basics: 
   * How to salvage or build simple shortwave radios from scavenged parts.
@@ -128,18 +155,24 @@ Metalworking & Blacksmithing
   * Encyclopedias, dictionaries, atlases, and “how-to” guides.
 * Teaching pedagogy: 
   * Methods for teaching mixed-age groups in one-room schoolhouse contexts.
+  * One-room schoolhouse layouts optimized for community education.
 * Teaching Resources
   * Pedagogical guides: how to teach reading, writing, arithmetic in a multi-age, small-community school setting.
   * Lesson plans or outlines for each subject at different levels.
 
 3.3 Preserving Arts & Culture
 * Music & instrument construction: 
-  * Manuals for building simple instruments (flutes, drums, lyres).
+  * Manuals for building simple instruments (flutes, drums, guitars).
   * Plans for constructing simple flutes, drums, string instruments, and tuning them.
 * Art & crafts: 
   * Weaving, pottery decoration, woodworking, painting—both for utility (clothes, blankets) and cultural expression.
   * Basic painting, drawing, sculpting methods (natural pigments, clays, charcoals).
+  * Easels and tools for painting or carving
   * Looms for weaving tapestries or cloth with patterns.
+* Art History
+  * Famous artworks: da Vinci, Michelangelo, van Gogh, Monet, Kanagawa, etc.
+  * Cultural art: from various cultures around the planet
+  * Other media: Films, TV, Music, Audiobooks, E-books, Plays, Podcasts, Lectures, etc.
 * Literature, philosophy, history & religion: 
   * Classic texts, sacred scriptures, philosophical treatises, historical accounts of civilizations—these help provide identity, meaning, and moral frameworks for a new society.
   * Preservation of moral frameworks, historical philosophies, social contracts.
@@ -153,10 +186,12 @@ Metalworking & Blacksmithing
   * Democratic systems, consensus-building, mediation, restorative justice.
 * Community layout plans: 
   * Designs for small settlements; placing wells, roads, farmland, sanitation facilities.
+  * Simple amphitheaters or town hall designs.
+  * Plans for villages or small cities with sustainable layouts.
 
 4.2 Defense
 * Defense & security: 
-  * Defensive structures (walls, watchtowers), conflict resolution tactics, community policing.
+  * Defensive structures (walls, watchtowers, moats, watchtowers), conflict resolution tactics, community policing.
 * Fortifications
   * Designs for simple watchtowers, defensive walls using earth, stone, or wood.
   * Alarms and signals (trip wires, basic booby traps—used responsibly and ethically).
@@ -166,6 +201,7 @@ Metalworking & Blacksmithing
 4.3 Legal & Ethical Framework
 * Basic law & justice: 
   * Simple mediation and conflict resolution strategies.
+  * Blueprints for creating courts or mediation spaces.
   * Consensus decision-making, models for small-scale governance (e.g., tribal councils, committees).
   * Adaptations of fair-trial principles, community-led courts, evidence-based reasoning.
 * Property & resource management: 
@@ -187,7 +223,7 @@ Metalworking & Blacksmithing
 * Biology: 
   * Human anatomy, plant biology (photosynthesis, soil microbiology), animal husbandry.
 * DIY Lab Techniques
-  * How to create rudimentary lab glassware, distillation setups.
+  * How to create rudimentary lab distillation setups.
   * Safe handling of acids/bases, simple electrochemistry setups (e.g., for plating metals or creating batteries).
 * Mechanics & Engines
   * Internal combustion engine basics (if fuel is available).
@@ -197,11 +233,51 @@ Metalworking & Blacksmithing
 * Electronics: 
   * Introductory guides to circuit design, scavenging and repurposing electronic components, building simple power regulators.
   * Schematics for simple circuit boards, basic radios, and vacuum tubes.
+  * Knowledge on soldering and salvaging scrap electronics
 * Software & computing (Long-term aspiration):
   * If you aim really high: fundamental computer science references (logic gates, binary, microprocessor fundamentals).
   * Source code for fundamental software (e.g., Linux kernel, compilers).
   * Understanding of binary, logic gates, microprocessor design.
   * This is far down the line, but having it documented is invaluable.
+  * Source code for rebuilding:
+    * gcc, g++, linux kernel, python3, ubuntu, opnsense, firefox, sha-3, gnupg, etc.
+
+5.3 Miscellaneous
+
+Memetics:
+* Political science
+* Misinformation
+* Epistemology
+* Manipulation & Persuasion tactics
+* Deradicalizing
+
+Construction:
+* Material science
+* Prospecting, mining, and refining raw materials
+* Textile production
+* Ceramics
+* Metallurgy
+* Construction and maintenance of production equipment
+* Cartwrighting & Wainwrighting
+* Construction
+* Coppering
+* Cobblering
+* Chandlering
+* Bladesmithing
+
+Advanced Topics:
+* Pedagogy
+* Meta-science
+* Taxonomy
+* Linguistics
+* Information Theory
+* Finance
+* Journalism
+* Philosphy
+* Mathematics
+* Physics
+* Chemistry
+
 
 # 6. Practical Storage Formats
 

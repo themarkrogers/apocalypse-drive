@@ -1,16 +1,64 @@
-# Raw Notes
+# Introduction
 
-* How-To Manuals for recreating computer hardware
-  * RISC-V CPU
-  * HDD?
-  * RAM?
-  * PCIe?
-  * Motherboard?
-  * PSU?
-  * Computer Case?
-  * Network Switch (managed & unmanaged)
-  * Cat5e cables?
-  * SATA cables?
+This document serves as a list of the resources needed to accomplish the tasks below: 
+* source code
+* schematics
+* manuals
+* guides
+* hardware
+
+Technical tasks to prove technology is restored:
+* Read a document from a flash drive and print it onto paper.
+* Recreate a small "internet" (i.e. the linux kernel, a debian OS, a web server, a ubuntu OS, a client computer, a web browser, a router, a small network, and any requisite compilers or programs).
+* Create a radio tower and communicate with it via a handheld radio.
+* Create a suite of scripts that, when run successfully, create a Ubuntu ISO file that can be used to install Ubuntu onto fresh hardware via a thumbdrive.
+  * Moreover, this Ubuntu ISO should create a Ubuntu OS that is pre-installed with the build tools needed to compile and create an entire other Ubuntu ISO (i.e. self-replicating).
+  * If possible, pre-load this ISO with the source code, if not, then package the source code for easy transmission (both offline & online).
+
+
+## Broad Strokes
+
+We'll need this hardware (at least) to accomplish those tasks:
+* Batteries, power, screens, keyboards, hard drives, cpus, motherboards, ram
+* A desktop computer
+* A server
+* A router
+* A printer
+* Cables: power, networking, data
+* Antennae
+* Raspberry Pi?
+* Unmanaged switch / hub?
+
+How-To Manuals for recreating computer hardware
+* RISC-V CPU
+* HDD?
+* RAM?
+* PCIe?
+* Motherboard?
+* PSU?
+* Computer Case?
+* Network Switch (managed & unmanaged)
+* Cat5e cables?
+* SATA cables?
+
+Software to Hoard
+* Code compilers & interpreters (C, C++, dotnet?, Python, JS, Rust, golang, java, lisp, ruby, )
+  * gcc, g++, make, python3, node, pip3, npm, react, 
+* POSIX utils (ssh, cp, cd, ftp, scp, curl, gdisk, man, rsync, sudo, etc.)
+* CLI Tools (bash, zsh, vim, emacs, git, gnupg2, net-tools)
+* Server Tools (ssh-server, nginx, ftp-server, ftp, sftp, Nextcloud, Samba, NFS, SMTP, Plex)
+* Applications (Firefox, Thunderbird, Signal, Docker, LibreOffice, VLC, Audacity, Apache, MySQL, PHP, Doom, Plex, Steam)
+* BIOSes (GRUB, mbr, etc.)
+* Drivers (Wayland?, mp3, )
+* Live Thumb Drives (Ubuntu, Debian, CentOS, Tails, Raspbian, Kali, Arch, Proxmox)
+* Networking (opnsense, openwrt, cumulus linux)
+* Repositories (apt-mirror, gitlab/gitea, pypi)
+  * pytest, pipdeptree, black, flake8, pylint, requests, FastApi, plexapi, yt-dlp
+* Phones (LineageOS, FDroid, GrapheneOS)
+  * Certain apks? (OSMaps, Signal, Crypto wallets, etc)
+* Infrastructure (software for the management of: batteries, windmills, solar panels, hydroelectrics, oil wells, etc.)
+* Wireless Networks (meshtastic, wi-fi, LoRa, AM/FM radio)
+
 
 # 1. Reading from a Flash Drive & Printing
 1.1 Source Code & Software
