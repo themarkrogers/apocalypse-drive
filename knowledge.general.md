@@ -346,6 +346,45 @@ Also:
 
 ## Books
 
+### Specific Books
+
+Survival
+* The Way Things Work by David Macauley
+* The Book: the ultimate guide for rebuilding civilization 
+* The Whole Earth Catalog by Stewart Brand
+* SAS Survival Handbook by John “Lofty” Wiseman
+* Where There Is No Doctor by David Werner
+* Edible Wild Plants: Wild Foods from Dirt to Plate by John Kallas
+* One Second After by William R. Forstchen (fiction but insightful)
+* How to Invent Everything by Ryan North
+* Bushcraft 101 by Dave Canterbury
+
+Networking and Internet Rebuilding
+* "Computer Networking: Principles, Protocols, and Practice" by Olivier Bonaventure
+* "The Internet Book: Everything You Need to Know About Computer Networking and How the Internet Works" by Douglas E. Comer
+* "Building Wireless Community Networks" by Rob Flickenger
+* "High-Performance Browser Networking" by Ilya Grigorik (free online version available)
+
+Electronics and Hardware Salvaging
+* "The Art of Electronics" by Paul Horowitz and Winfield Hill
+* "Make: Electronics" by Charles Platt
+* "How Computers Work" by Ron White
+* "Practical Electronics for Inventors" by Paul Scherz and Simon Monk
+
+Power and Communication
+* "Handbook of Energy Engineering" by Albert Thumann
+* "Ham Radio for Dummies" by H. Ward Silver
+
+General Technical Resources
+* "How to Diagnose and Fix Everything Electronic" by Michael Geier
+* "Industrial Control Electronics: Devices, Systems, and Applications" by Terry Bartelt
+* "Hacking: The Art of Exploitation" by Jon Erickson
+
+For Advanced Technical Implementation
+* "Operating Systems: Three Easy Pieces" by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+* "Modern Operating Systems" by Andrew S. Tanenbaum
+
+
 ### Non-Fiction
 
 * r/antilibrary
@@ -363,6 +402,7 @@ Also:
 * Literature/Classics
 
 ### Educational
+
 http://en.wikipedia.org/wiki/Wikipedia:Database_download
 wikipedia
   wikimedia?
@@ -379,13 +419,16 @@ Merit Badge Books
 
 
 ### Governmental
+
 http://wiki.openstreetmap.org/wiki/Planet.osm
 
 ### Sheet Music
+
 ScorSer
 IMSLP?
 
 ### Misc
+
 Wizards of the Coast
   DnD
 https://www.reddit.com/r/datasets/top/?t=all
@@ -400,6 +443,7 @@ https://en.wikipedia.org/wiki/Outline_of_knowledge
 
 
 ### Nota Bene
+
 Check pdf files
   pdfid.py from Didier Stevens
   PDFExaminer (web-based)
