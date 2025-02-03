@@ -279,66 +279,7 @@ Advanced Topics:
 * Chemistry
 
 
-# 6. Practical Storage Formats
-
-Storage:
-* Keep some information in a bug-out bag (durable waterproof books & cards)
-  * Organized into "kits"
-  * Survival kit, medicine kit, agriculture kit, defense kit, etc.
-* Store other information in a portable format (microfilm)
-  * For compact storage that can be easily consumed with low-tech
-  * Shelter guide, energy guide, tools guide, etc
-* Hide the rest of the information in a long-term cache (etched onto ceramic).
-  * Scholarly papers, blueprints, textbooks
-* Create an lookup index for locating information
-
-Also:
-* Durable hard copies: 
-  * Print essential manuals on archival (acid-free) paper or waterproof/tear-resistant paper, then store in sealed containers.
-* Microfilm or microfiche: 
-  * Extremely space-efficient, can last for decades if kept dry and cool; requires only a magnifying device (no electricity) to read.
-* Etched metal or clay tablets: 
-  * For the absolute longest-term “hard copy,” albeit more limited in capacity.
-* Digital backups: 
-  * Portable storage (e.g., ruggedized external drives, SD cards) locked away in EMP-shielded enclosures—but remember these may be unusable unless you preserve some electronics and the knowledge to power them.
-* Durable Information Formats
-  * Microfilm/microfiche (long shelf life, can be read with a simple magnifier).
-  * Archival paper with proper storage to prevent moisture/mold.
-  * Simple metal etching (e.g., steel or aluminum plates) for extremely critical data.
-
-6.1 Physical Books
-* Collect high-quality, durable reference books on each topic.
-* Store in waterproof, pest-proof containers.
-* Keep in a stable environment (low humidity, moderate temperature).
-
-6.2 Archival Paper or Microfilm
-* Print key manuscripts on acid-free or archival-quality paper.
-* Microfilm (or microfiche) can store thousands of pages in a compact, stable format—viewable with a simple magnifier or improvised projector.
-
-6.3 Digital Storage (with a Plan)
-* While digital formats (hard drives, USB sticks) can store vast amounts of data, they depend on future availability of compatible technology and power.
-* If preserving digital media, also include instructions and hardware for reading it (e.g., a low-power laptop, solar charger, instructions on battery maintenance).
-* Consider including open-source software archives and code repositories on robust media (e.g., specialized optical discs, M-DISC).
-
-6.4 Multiple, Redundant Caches
-* Spread out copies of crucial resources in multiple locations.
-* Fireproof safes or sealed metal containers underground might protect from disasters.
-
-
-# 7. Hoarding Knowledge
-
-* Prioritize by Impact: 
-  * Start with essential survival knowledge—food, water, shelter, medicine—before moving to advanced topics.
-* Local Relevance: 
-  * Tailor what you store to the climate, resources, and cultural context of your region (e.g., desert survival vs. cold climate).
-* Multiple Copies & Caches: 
-  * Redundancy is key—store copies in multiple locations to mitigate fire, flooding, or theft.
-* Practical Accessibility: 
-  * Make sure that what you preserve can be used with the simplest possible tools and minimal specialized training.
-* Teach as You Hoard: 
-  * If you have a community or family, share knowledge ahead of time. Post-collapse, a living teacher is as valuable as any manual.
-
-# 8. Other Notes
+# 6. Other Notes
 
 * Wikipedia
 * How to build a 3d printer
