@@ -13,13 +13,45 @@ Minted coins may have some value, depending on their composition, purity, and sc
 Coins are highly portable and easily exchangable.
 
 Store your coins in Air Tite capsules:
-* H32: 
-  * Gold: 1 oz: South African (Krugerands)
-* H38: 
-  * Silver: 1 oz: Canadian
-* H39: 
-* H40: 
-  * Silver: 1 oz: Australian (Kangaroos, Koalas, Crocodiles), American Eagles, Chinese Pandas, British Britannias, Japanese Taku Turtles, Mexican Libertads,
+* H16:
+  * Gold: 1/10 oz Gold American Eagle
+* H22:
+  * Gold: 1/4 oz Gold American Eagle
+* H27:
+  * Gold: 1/2 oz Gold American Eagle
+* H32:
+  * Gold: 1 oz Gold American Eagle (32.7mm, requires slight pressure to fit)
+  * Gold: 1 oz Gold South African Krugerrand (32.6mm, also a tight fit)
+  * Gold: 1 oz Mexican Libertad (Gold & Silver, older issues) (32mm)
+  * Palladium: 1 oz Palladium American Eagle (32.7mm, requires slight pressure to fit)
+  * Platiunum: 1 oz Platiunum American Eagle (32.7mm, requires slight pressure to fit)
+* H38:
+  * Silver: 1 oz Australian Silver Kangaroo (some older years) (38mm)
+  * Silver: 1 oz Silver Canadian Maple Leaf?
+  * Silver: 1 oz Silver American Eagle (40.6mm; fits loosely, but H40 is better)
+  * Silver: 1 oz Silver Libertad (Mexican Mint) (40mm, but may fit loosely)
+* H39:
+  * Silver: 1 oz Chinese Silver Panda (pre-2016, when they were still 1 oz) (39mm)
+  * Silver: 1 oz Silver Britannia (2013 & earlier) (38.6mm)
+  * Silver: 1 oz Silver Canadian Maple Leaf (38mm)
+* H40:
+  * Silver: 1 oz Australian Silver Kangaroos, Koalas, and Crocodiles
+  * Silver: 1 oz Australian Silver Kookaburra (varies by year, some at 40.6mm)
+  * Silver: 1 oz British Britannia
+  * Silver: 1 oz Chinese Silver Panda (after 2016)
+  * Silver: 1 oz Japanese Taku Turtle
+  * Silver: 1 oz Silver American Eagle (40.6mm; ideal fit)
+  * Silver: 1 oz Silver Mexican Libertad (most years) (40mm)
+  * Silver: 1 oz Silver South African Krugerrand (40mm)
+* H48:
+  * Silver: Mexican Silver Libertad 2 oz (due to the thick rim, confirm capsule depth)
+* H65:
+  * Silver: Mexican Silver Libertad 5 oz
+* H76:
+  * Silver: 5 oz America the Beautiful Coin (designed specifically for these large, thick coins)
+* H100:
+  * Silver: Mexican Silver Libertad 1 kg (Air-Tite doesn’t typically make these, but generic 100mm capsules work)
+
 
 ### Bullion Bars
 
