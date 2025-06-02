@@ -61,3 +61,12 @@ Search & Retrieval
 ## LLM Query: Additional Information?
 Use the LLM to ask:
 * What additional resources, data types, or scenario-specific knowledge would be most useful for an LLM to provide expert advice during/after disasters and societal collapse?
+
+---
+
+## Another Thought
+
+Apocalypse drive. Maybe upload it on torrents after a good v1 is made. Basic education in a very broad array of topics. 
+* Apocalypse go bag? Lens, microfiche, tools, seeds, survival supplies, scavenging tools & gear, electronics tools, e-reader, mp3 player headphones and speaker, notebook & pencils, maps, coordinates to caches, portable LLM?
+* Caches built for different needs: survival, defense, intelligence, counterintel, civil war, nuclear winter, hacking, rebuilding, medicine, bigger tools: LLM, 3d-printer, etc
+  * caches contain: books, tools, microfiche & lens, supplies, gear, money, and meds
