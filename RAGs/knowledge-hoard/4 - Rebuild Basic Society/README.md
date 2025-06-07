@@ -1,187 +1,142 @@
-# 4. Rebuild basic society
+# 4. Rebuild Basic Society
 
 ## Engineering & Infrastructure Repair
 
+Core References:
+
 US Army Technical Manuals
-* Basic engineering
-* field fortifications
-* water purification
-* power generation
+* TM 5-330 – Basic field engineering
+* TM 3-34.70 – Water supply
+* TM 5-742 – Maintenance and repair of roads and airfields
+* TM 5-813-7 – Power generation and electrical systems
+* Source: [archive.org / everyspec.com]
+
+Civilian & NGO Guides:
+* Handbook for Public Water Systems – EPA, CDC
+* Emergency Sanitation Guidelines – WHO & Sphere Project
+* Humanure Handbook – Joseph Jenkins ([humanurehandbook.com](https://humanurehandbook.com))
+  * Sanitation resilience
+* Practical Action Technical Briefs ([practicalaction.org]) – low-tech solutions
 
 Field Engineering for Disaster Management
-* Handbook for Public Water Systems
-* Emergency Sanitation Guidelines
-
-Appropriate Technology & Permaculture
-* e.g. Practical Action's resources
-* e.g. "The Humanure Handbook" (sanitation resilience)
 
 ## Food Security & Sustainable Agriculture
 
-Permaculture Guides
-* Gaia's Garden
-* Sepp Holzer's Permaculture
+Permaculture & Agroecology:
+* Gaia's Garden – Toby Hemenway
+* Sepp Holzer's Permaculture – Alpine-style food resilience
+* Introduction to Permaculture – Bill Mollison (excellent diagrams for OCR/RAG)
 
-FAO Manuals on Food Security in Emergencies
-* local food production
-* pest control
-* nutrition
+Institutional Manuals:
 
-## Also
+FAO Food Security Toolkits & Manuals – [fao.org/emergencies](https://www.fao.org/emergencies)
+* Local food production, pest control, seed banks
+* Emergency nutrition programs
 
-Community Resilience & Psychological First Aid Manuals
-* Psychological First Aid Field Operations Guide (SAMHSA/WHO)
+## Community Resilience & Health
 
-Ethnobotany and local foraging guides for edible and medicinal plants
+Mental & Social Wellbeing:
+* Psychological First Aid Field Guide – SAMHSA, WHO
+* Mutual Aid: A Factor of Evolution – Kropotkin (theoretical underpinning)
+* Blueprint for Revolution – Popovic (nonviolent social organization)
 
-DIY medical devices
-* the MIT Emergency Ventilator Project for pandemics
+Medical Resilience:
+* Where There Is No Doctor – Hesperian Foundation ([hesperian.org](https://hesperian.org))
+* MIT Emergency Ventilator Project – [E-vent.mit.edu](https://e-vent.mit.edu)
 
-Community-level water purification & waste management
-* composting toilets
-* biosand filters
+Sanitation & Waste:
+* Biosand Filter Construction Manual – CAWST
+* Composting Toilets: A Guide – EcoSanRes
 
-Psychological & Social Resilience
-* Crisis leadership & decision-making under stress
-* Community organizing in emergencies (mutual aid, bartering, governance)
+## Security & Defense
 
-Tactical & Security
-* Basic security measures, perimeter defense, night-time security
-* De-escalation, self-defense in collapse scenarios (ethical and legal considerations)
+* Field Fortifications (FM 5-103)
+* Basic perimeter defense, passive traps, night watch systems
+* Non-lethal de-escalation techniques
+* Ethics of defense & community justice in collapse
 
-## Basic Society
 
-1. Survival Essentials
+# Core Functions of a Basic Society
 
-These address the immediate biological and environmental needs
-* Water Management: Hydrology, filtration, purification, and storage
-* Sanitation & Hygiene: Waste disposal, latrine building, disease prevention
-* Food Production:
-  * Agriculture: Soil science, crop rotation, irrigation
-  * Animal Husbandry: Breeding, feeding, veterinary basics
-  * Foraging & Fishing: Edible species, sustainability
-* Shelter & Clothing: Basic construction, insulation, textile production
+## 1. Survival Essentials
+* Water: filtration, cisterns, hydrology
+* Sanitation: dry toilets, soap from fat/ash
+* Food: irrigation, seed saving, animal husbandry
+* Shelter: low-tech structures, insulation
 
-2. Security & Defense
+## 2. Security & Defense
+* Watch systems, patrols, fortifications
+* Community justice: mediation, consensus, exile systems
+* Conflict prevention & de-radicalization models
 
-Protecting people, territory, and infrastructure
-* Physical Defense: Fortifications, basic weaponry, patrol systems
-* Disaster Preparedness: Fire, flood, and storm planning
-* Basic Law & Order: Conflict resolution, justice systems, community norms
+## 3. Health & Medicine
+* Preventive: hygiene, vaccines, diet
+* Clinical: field surgery, splinting, obstetrics
+* Pharmacological: herbal and improvised medicines
 
-3. Health & Medicine
+## 4. Education & Knowledge Transfer
+* Literacy, math, practical pedagogy
+* Oral tradition, memory techniques
+* Disaster-resistant recordkeeping (e.g. microfiche)
 
-Sustaining life and preventing illness
-* Preventative Medicine: Vaccination, sanitation, nutrition
-* Basic Clinical Care: First aid, wound treatment, childbirth
-* Pharmacology & Herbology: Identifying and preparing treatments
-* Mental Health: Trauma care, resilience training
+## 5. Engineering & Infrastructure
+* Roads, bridges, tools, wind/solar
+* Materials: blacksmithing, cob, adobe, wood
 
-4. Education & Knowledge Transfer
+## 6. Governance & Organization
+* Consensus councils, elders, time-limited leadership
+* Fair resource allocation and civic duties
+* Urban design and land-use zoning
 
-Passing on skills and ensuring social cohesion
-* Literacy & Numeracy: Reading, writing, math
-* Pedagogy: How to teach and train others
-* Oral Traditions & Recordkeeping: Preserving and transmitting knowledge
+## 7. Economy & Trade
+* Barter systems, time banks, ration tokens
+* Guild systems for crafts & repair
+* Local logistics: carts, bikes, pack animals
 
-5. Engineering & Infrastructure
+## 8. Culture, Ritual, Morale
+* Stories, theater, shared meals
+* Taboos, sacred spaces, rites of passage
+* Play and games as mental relief
 
-Building and maintaining physical systems
-* Civil Engineering: Roads, bridges, buildings
-* Mechanical Engineering: Tools, pulleys, engines
-* Energy Systems: Firewood, wind, solar, combustion
-* Materials Science: Working with wood, stone, metals
+## 9. Strategic / Long-Term Planning
+* Archives, universal pictograms
+* Ecological restoration & rewilding
+* Diplomacy across communities
 
-6. Governance & Social Organization
 
-Structuring human relationships
-* Leadership Models: Tribal councils, representative systems, consensus
-* Conflict Mediation: Justice systems, peacekeeping
-* Resource Allocation: Rationing, trade, taxation
-* Civic Planning: Urban layout, zoning, common spaces
+# Tools to Make Tools & Core Fabrication
 
-7. Economy & Trade
+Metals & Woodworking:
+* Gingery Series:* Metal Lathe, Foundry, Shaper (\[gingerybooks.com])
+* Blacksmith forges: brake drum, clay-lined, charcoal
+* Treadle lathes, hand-cranked drill presses
 
-Facilitating exchange and specialization
-* Barter & Currency: Trade systems, trust mechanisms
-* Craft & Guild Knowledge: Skilled labor organization
-* Logistics: Transportation, supply chain basics
+Optics & Measurement:
+* DIY microscopes, refractors (MacGyver Lab style)
+* Homemade scales: lever-arm designs
+* Sandpaper-based flatness plates
 
-8. Culture, Ritual, and Morale
+Substitutes:
+* Fat-based candles, vinegar batteries, soap from ash
 
-Ensuring cohesion and meaning
-* Arts & Storytelling: Songs, myths, plays
-* Religion & Ethics: Shared values, rituals, taboos
-* Recreation & Play: Group bonding, stress relief
 
-9. Strategic / Long-Term:
-* Information Technology: Recordkeeping, communication
-* Environmental Stewardship: Ecology, sustainability
-* Diplomacy & Language: Multilingualism, foreign relations
+# Unique Value Content
 
-## Tools to Make Tools & Core Fabrication
+Ecology & Biomes:
+* Region-specific foraging + medicine
+* Climate-specific design (arid, alpine, tropical, etc.)
 
-### Metal & Woodworking Basics
+Post-Industrial Scavenging:
+* Capacitors from microwaves, steel from buildings
+* Reclaimed solar panels, refrigerant reuse, insulation foam
 
-* Forge Building:
-  * charcoal or gas forges (blacksmith's cookstove forge designs, brake drum forges)
-* Lathes & Drill Presses:
-  * Gingery's books ("The Metal Lathe," "The Metal Shaper," etc.): teach casting aluminum and machining
-* Right Angles & Surface Plates:
-  * precision measurement with scrap metal, how to flatten with sand or lapping
-* Homemade Band Saws:
-  * Using old treadmill motors or car window motors
-* Balancing Scales:
-  * Precision with simple mechanics (lever arms, calibration)
-* Glass & Optics:
-  * DIY glass cutting, borosilicate (Pyrex) glassware repair
-  * Building basic microscopes from lenses (like MacGyver Lab style)
+Alternative Governance & Economy:
+* Consensus-based systems, gift economies
+* Red/black markets in collapse zones (case studies)
 
-## Also
+Pathogen & Climate Resilience:
+* DIY PPE, quarantine protocols, cold-heat insulation hacks
 
-* Psychological resilience: Crisis leadership, mental health support, mutual aid
-* Environmental & local resource use: edible plants, herbal medicine, water filtration
-* Legal frameworks in emergencies: martial law, emergency governance, rights of civilians
-
-## Also
-
-A. Practical Survival
-* Off-grid power systems: building and maintaining solar, wind, micro-hydro, thermoelectric, pedal power
-* Shelter engineering: passive heating/cooling, insulation methods, dome/yurt/earthship construction
-* Improvised tools and substitutes: bushcraft alternatives to industrial gear, e.g. animal-fat candles, charcloth, soap from ash & fat
-
-B. Social and Psychological Infrastructure
-* Conflict resolution & group dynamics: dealing with fractures, hierarchy, trauma bonding, and charismatic manipulators
-* Organizational models: mutual aid groups, temporary autonomous zones, anarchist syndicalism, neighborhood governance
-* Education and pedagogy: how to teach others without digital tools; Montessori, Socratic method, apprenticeship models
-
-C. Communications and Info Security
-* Radio protocols: HAM radio licensing, mesh networking (LoRa, ESP32), shortwave, morse, encryption basics
-* Code systems: low-tech cryptography (e.g., one-time pads), cipher wheels, steganography
-* Signaling systems: semaphore, mirror signaling, flag codes
-
-D. Resilient Knowledge Systems
-* Memory palaces / oral tradition techniques
-* Disaster-proof documentation: e.g., microfiche, etched metal, clay tablets, UV-stable prints
-* Minimal language packs: Pictograms, Interlingua, simplified English for communicating across language barriers
-
-### Content that Adds Unique Value
-
-Ethnobotany & Ecological Zones
-* How to identify and use local flora for medicine, tools, dye, and food--tailored to major ecological biomes
-
-Improvisation from Modern Ruins
-* Guides to scavenging: sourcing capacitors, batteries, structural steel, meds, solar cells, refrigerants
-
-Alternative Economies & Governance
-* How to bootstrap barter, time-banks, tally sticks, councils, gift economies, consensus decision-making
-
-Pathogen Management
-* Field sanitation, infection control without antibiotics, makeshift quarantine, wound triage
-
-Climate Resilience
-* Adapting to drought, flood, heatwaves, or cold snaps in low-tech ways
-
-Low-Literacy Adaptations
-* Graphic instructions (like IKEA manuals), instructional songs, and chantable rules for illiterate users
-
+Low-Literacy Communication:
+* Visual guides, chantable rules, call-response drills
+* Picture instructions for water filtering, wound care, etc.

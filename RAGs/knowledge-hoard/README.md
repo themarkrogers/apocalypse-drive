@@ -4,7 +4,7 @@ The Apocalypse Drive is a curated knowledge archive designed to support human su
 and flourishing in the wake of disasters, collapse, or long-term crises. Its ultimate aim is not
 only to ensure continued existence, but to preserve wisdom, dignity, and meaning
 
-We aim to gather enough practical and cultural knowledge to reliably:
+Aim to gather enough practical and cultural knowledge to reliably:
 1. Prepare Before Emergencies
   * Anticipate risks through local hazard assessment
   * Build personal, family, and community resilience
@@ -15,12 +15,14 @@ We aim to gather enough practical and cultural knowledge to reliably:
   * Provide field-ready guidance for first aid, search & rescue, triage, and civil coordination
 
 3. Ensure Short-Term Survival
-  * Secure water, food, shelter, and warmth under minimal conditions
+  * Secure water, food, shelter, and warmth under adverse conditions
   * Provide practical bushcraft, urban survival, and wilderness medicine
 
 4. Rebuild Basic Society
   * Restore clean water, sanitation, agriculture, basic health care, and education
   * Guide community formation, conflict resolution, and local governance
+  * Understand ecosystems and how to steward natural resources
+    * Rewilding, soil regeneration, watershed protection, biodiversity support
 
 5. Scavenge and Repair Electronics
   * Identify, harvest, and reuse components from modern devices
@@ -44,11 +46,12 @@ c. Internet Infrastructure
 8. Prevent Future Collapse through Knowledge and Culture
   * Preserve philosophy, history, law, science, and ethics
   * Integrate lessons from past collapses and cultural resilience
+  * Establish cooperative systems across independent communities
+    * Facilitate diplomacy, logistics, standardization, and defense between multiple groups or enclaves
 
 9. Restore Joy, Community, and Humanity
   * Reintroduce art, play, ritual, song, storytelling, and collective meaning
   * Support mental health, social bonding, and the regeneration of thriving communities
-
 
 # Storing the data
 
@@ -68,3 +71,11 @@ c. Internet Infrastructure
 
 Use the LLM to ask:
 * What additional resources, data types, or scenario-specific knowledge would be most useful for an LLM to provide expert advice during/after disasters and societal collapse?
+
+
+# Other data to hoard
+
+* All of the English wikipedia?
+* Movies & TV?
+
+
