@@ -119,6 +119,10 @@ Optics & Measurement:
 Substitutes:
 * Fat-based candles, vinegar batteries, soap from ash
 
+3D Printing
+* Plans to build a 3D printer
+* Scavenge plastic waste
+
 
 # Unique Value Content
 

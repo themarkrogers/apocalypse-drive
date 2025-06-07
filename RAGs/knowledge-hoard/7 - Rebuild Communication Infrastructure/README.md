@@ -146,3 +146,15 @@ Printable Diagrams:
 * Signal strength planning
 * Power budget charts
 * IP assignment templates
+
+
+# Source Code Packages
+
+Keep backed up
+* Source code for many OSS projects:
+  * Tools: gcc, g++, unix kernel, vim, zsh, git, rust-compiler, 
+  * OSes: ubuntu, proxmox, debian, tails, kali, raspbian, 
+  * Utilities: opnsense, 
+* Compiled Programs
+  * gcc, g++, python3, ubuntu, 
+
