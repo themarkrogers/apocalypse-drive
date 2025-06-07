@@ -1,6 +1,13 @@
 # 7. Rebuild Basic Comms
 
 This section outlines how to rebuild communication infrastructure from the circuit level up to wide-area networking. Emphasis is on salvage, low-power systems, mesh networking, and community-scale resilience.
+a. Home Networks
+  * Maintain or rebuild basic computing and local networking (mesh, LAN, SDR)
+b. Radio Communications
+  * Build, power, and deploy long-range and short-range radios with improvised or salvaged gear
+c. Internet Infrastructure
+  * Recreate elements of global networks (DNS, routing, ISPs) in limited or decentralized form
+
 
 ## Building Electronics & Networks from Scratch / Scrap
 

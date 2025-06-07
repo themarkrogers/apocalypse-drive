@@ -1,5 +1,10 @@
 # 4. Rebuild Basic Society
 
+* Restore clean water, sanitation, agriculture, basic health care, and education
+* Guide community formation, conflict resolution, and local governance
+* Understand ecosystems and how to steward natural resources
+  * Rewilding, soil regeneration, watershed protection, biodiversity support
+
 ## Engineering & Infrastructure Repair
 
 Core References:
@@ -50,6 +55,8 @@ Sanitation & Waste:
 
 ## Security & Defense
 
+* Self-defense & martial arts training
+* Firearms & weapons training
 * Field Fortifications (FM 5-103)
 * Basic perimeter defense, passive traps, night watch systems
 * Non-lethal de-escalation techniques

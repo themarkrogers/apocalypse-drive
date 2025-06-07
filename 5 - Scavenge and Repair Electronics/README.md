@@ -1,6 +1,9 @@
 # 5. Scavenge and Repair Electronics
 
 This section focuses on recovering, repurposing, and repairing electronics using salvage from post-industrial environments and minimal tools.
+* Identify, harvest, and reuse components from modern devices
+* Provide reference materials for electronic diagnostics and repairs
+
 
 # Basic Electronic Theory & Tools
 

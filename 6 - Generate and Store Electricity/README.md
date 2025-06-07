@@ -1,6 +1,8 @@
 # 6. Gather and Store Electricity
 
 This section focuses on low-tech, salvage-based, and DIY systems for capturing, storing, and distributing electrical power in off-grid or post-collapse conditions.
+* Harness energy via solar, wind, hydro, combustion, thermoelectric, and manual systems
+* Store power using salvageable batteries and buildable capacitor arrays
 
 ## Basic Concepts
 

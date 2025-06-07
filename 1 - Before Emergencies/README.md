@@ -1,5 +1,9 @@
 # 1. Planning and actions before emergencies
 
+* Anticipate risks through local hazard assessment
+* Build personal, family, and community resilience
+* Establish survival caches, communications plans, and go-bags
+
 # Food Resilience
 
 ## Seed Saving

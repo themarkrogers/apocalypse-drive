@@ -1,5 +1,8 @@
 # 2. React to an emergency, disaster, catastrophe, and/or societal collapse
 
+* Respond to natural disasters, conflict zones, pandemics, and systemic collapse
+* Provide field-ready guidance for first aid, search & rescue, triage, and civil coordination
+
 # Core Emergency & Disaster Response Manuals
 
 FEMA Emergency Management Institute (EMI) Resources

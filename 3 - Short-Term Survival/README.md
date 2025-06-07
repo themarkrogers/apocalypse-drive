@@ -1,5 +1,8 @@
 # 3. Short-term survival
 
+* Secure water, food, shelter, and warmth under adverse conditions
+* Provide practical bushcraft, urban survival, and wilderness medicine
+
 # Survival, Bushcraft & Improvisation Manuals
 
 Core Survival Texts

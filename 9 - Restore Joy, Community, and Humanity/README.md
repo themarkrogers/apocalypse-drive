@@ -1,6 +1,8 @@
 # 9. Attempt to Restore Joy, Contentment, Love, Community, and Peace
 
 This section addresses the often-overlooked but critical role of emotional healing, social cohesion, and the revival of beauty, play, and belonging in post-collapse recovery.
+* Reintroduce art, play, ritual, song, storytelling, and collective meaning
+* Support mental health, social bonding, and the regeneration of thriving communities
 
 ## Emotional & Social Restoration
 
@@ -80,3 +82,15 @@ Printables and Formats:
 * Ritual and festival templates (.md and .svg)
 * Printable memory games, card decks, storytelling dice patterns
 * Community bonding handbooks (zines, PDFs)
+
+# Humanity's Top Hits
+
+What are the gems that humanity has made?
+* Paintings, Photographs, Sculptures,
+* Inventions, Technology, Discoveries,
+* Movies, Music, Stories, Plays, Books, Poetry,
+* Speeches, Debates, Lectures, Classes,
+* Memes, Philosophies, Ideas, Political theories, economic theories, ethical frameworks,
+* Source code, programs, websites,
+
+Preserve copies of those
