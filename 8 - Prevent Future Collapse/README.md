@@ -29,6 +29,11 @@ Case Studies in Collapse and Resilience:
 * COVID-19 Pandemic – Global systems strain, decentralized resilience
 * Fall of the Roman Empire – Overextension, loss of civic cohesion
 * Easter Island – Ecological collapse through overextraction
+* Study how the Democratic Republic of the Congo was exploited by outside powers
+  * Great War of Africa
+  * Conflift between Rwanda and DRC in 2025
+    * https://www.youtube.com/watch?v=rvYRifKrS24
+    * In the absence of a central state, bad actors can easily manipulate local militias. Don't let this happen
 
 Indigenous & Ancestral Knowledge:
 * Haudenosaunee Great Law of Peace – Governance without state violence

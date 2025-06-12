@@ -1,0 +1,164 @@
+================================================================================
+Books
+================================================================================
+Non-Fiction
+	r/antilibrary
+		https://www.reddit.com/r/antilibrary/comments/6ow6tq/antilibrary_faq/
+		https://www.reddit.com/r/antilibrary/comments/6qd4ak/donate_hard_drive_space/
+	LibGen
+		https://www.reddit.com/r/libgen/comments/6rr71h/for_those_who_want_to_backup_libgen_just_in_case/
+	https://www.andyibanez.com/rclone-encryption-tutorial/
+	Internet Archive's journals collection
+	CORE datasets
+Fiction
+	https://standardebooks.org/
+	Literature/Classics
+Educational
+	http://en.wikipedia.org/wiki/Wikipedia:Database_download
+	wikipedia
+		wikimedia?
+		https://www.reddit.com/r/DataHoarder/comments/9ifnda/600_gb_corpus_of_all_paywalled_scholarly_sources/
+	Guides
+		setup local communication networks
+		solar and low power computers
+		long range wifi with web/ftp/irc/etc servers
+	Other
+		NurdRage
+Religious
+Governmental
+	http://wiki.openstreetmap.org/wiki/Planet.osm
+Sheet Music
+	ScorSer
+	IMSLP?
+Misc
+	Wizards of the Coast
+		DnD
+	https://www.reddit.com/r/datasets/top/?t=all
+	ebooks
+	wikis
+Nota Bene
+	Check pdf files
+		pdfid.py from Didier Stevens
+		PDFExaminer (web-based)
+
+================================================================================
+Video
+================================================================================
+Movies
+	Conspiracy Movies
+	Blockbusters/oscars from every year?
+	Christmas Movies?
+TV
+	Alton Brown
+	Rick & Morty
+	Breaking Bad
+	Better Call Saul
+	Adam Ruins Everything
+	Baskets
+	Martha & Snoop
+	The Wire
+	Mr. Robot
+	Mr. Rogers Neighborhood
+	The OA
+	The	Path
+	Mythbusters
+	HBO
+		Westworld
+	Nat Geo
+		Drugs, Inc
+		Underworld, Inc
+	Vice
+		The Vice Guide to Travel
+		Party Legends
+		Slutever
+		Dead Set on Life?
+		Noisey?
+		Nuts + Bolts?
+	Comedians
+		George Carlin
+Documentaries
+	The Union
+	Craigslist Joe
+	Nova?
+	Degenerate Art
+	Breaking the Taboo
+	American Drug War: The Last White Hope
+	Raw Opium
+	Heroin(e)
+
+================================================================================
+Audio
+================================================================================
+Music?
+Podcasts
+	Joe Rogan?
+	Invisibilia
+	RadioLab
+	Freakonomics
+Other
+	Voyager Golden Record
+
+================================================================================
+Software?
+================================================================================
+Ubuntu (+libraries)
+Games?
+	Morrowind & Expansions
+	Oblivion & Expansions
+	Skyrim & Expansions
+	Half Life 1 & 2
+	Portal 1 & 2
+	Hypercube
+	Other TES games
+	Jedi Knight
+	Command & Conquer
+	Age of Empires
+	PUBG
+	Minecraft
+	Myst, Riven, etc
+Video Games & Emulators?
+
+================================================================================
+Articles
+================================================================================
+Sci-Hub / Sci-Bay.org / Google Scholar
+Newspapers?
+Lonely Planet Guide to Travel
+
+================================================================================
+Images
+================================================================================
+Cover of the Voyager Golden Record
+Pioneer Plaque
+National Geographic Images?
+My Google Photos?
+Sensitive photos?
+
+================================================================================
+Code
+================================================================================
+Old Projects
+Current Projects
+https://github.com/historicalsource
+https://github.com/MITDDC/zork
+Ubuntu Source
+Linux Kernel Source
+The source for all utilities needed to build the kernel and ubuntu
+	gcc, etc
+Doom Source?
+Quake Source?
+XBox & Windows NT Source
+Command and Conquer Source
+
+================================================================================
+Websites (Offline backups)
+================================================================================
+Dreaddit?
+Currently DLed sites
+
+================================================================================
+Stegonography
+================================================================================
+Sensitive data?
+How to hide it?
+

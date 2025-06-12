@@ -151,3 +151,8 @@ Pathogen & Climate Resilience:
 Low-Literacy Communication:
 * Visual guides, chantable rules, call-response drills
 * Picture instructions for water filtering, wound care, etc.
+
+# Core Technologies
+
+Consider the two different content creation arcs of this YouTube channel
+* [How To Make Everything](https://www.youtube.com/@htme)
