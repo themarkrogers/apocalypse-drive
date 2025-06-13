@@ -25,6 +25,8 @@ Features: Something inconspicuous, blends in to what folks in the city wear
 * Battery backup & charger cables
 * Zip ties
 * Handcuff keys
+* Safety goggles that are airtight
+* Hardhat
 
 # To Do
 
@@ -66,6 +68,8 @@ Features: Something inconspicuous, blends in to what folks in the city wear
 ## Misc
 
 Use an inkpen to write the phone number of a defense lawyer on your inner forearm (near the elbow)
+* Masterson Hall
+  * 720-445-5505
 
 # Personal Cell Phone
 
